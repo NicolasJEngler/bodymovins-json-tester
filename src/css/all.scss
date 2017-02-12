@@ -1,0 +1,13 @@
+/* Global styles, configurations, and variables */
+@import '_partials/colors';
+@import '_partials/fonts';
+@import '_partials/easings';
+@import '_partials/animations';
+@import '_partials/global';
+
+/* Modules styles */
+// i.e.: `@import '_modules/home-slider';`
+
+/* UI styles */
+@import '_ui/buttons';
+@import '_ui/headings';
